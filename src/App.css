@@ -1,2 +1,24 @@
-.App {
+.MatchSummary {
+}
+
+.MatchSummary-pic {
+    text-align: center;
+}
+
+.MatchSummary-pic img {
+    width: 64px;
+    height: 64px;
+}
+
+.MatchSummary-name {
+    text-align: center;
+}
+
+.MatchSummary-winprob {
+    text-align: center;
+    font-size: 200%;
+}
+
+.MatchSummary-vs {
+    text-align: center;
 }

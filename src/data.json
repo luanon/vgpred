@@ -1,0 +1,20 @@
+{
+  "match_summaries": [
+    {
+      "left": { "name": "Rhajat", "winprob": 0.5 },
+      "right": { "name": "Faye", "winprob": 0.5 }
+    },
+    {
+      "left": { "name": "Priscilla", "winprob": 0.5 },
+      "right": { "name": "Tharja", "winprob": 0.5 }
+    },
+    {
+      "left": { "name": "Dorcas", "winprob": 0.5 },
+      "right": { "name": "Catria", "winprob": 0.5 }
+    },
+    {
+      "left": { "name": "Katarina", "winprob": 0.5 },
+      "right": { "name": "Sigurd", "winprob": 0.5 }
+    }
+  ]
+}
